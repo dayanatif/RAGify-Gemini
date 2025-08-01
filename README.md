@@ -121,9 +121,9 @@ tqdm
 
 ## 🤖 Author
 
-**Dayan Atif**
-*📍 AI & ML Enthusiast | LangChain Explorer
-*🛠️ Built with love, learning, and LangChain.
+* **Dayan Atif**
+* **📍 AI & ML Enthusiast | LangChain Explorer
+* **🛠️ Built with love, learning, and LangChain.
 
 ---
 
