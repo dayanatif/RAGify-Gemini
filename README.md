@@ -1,8 +1,4 @@
-Here’s your **complete and corrected `README.md`**, properly formatted and ready to paste into your project:
 
----
-
-````markdown
 # 🌟 RAGify-Gemini
 
 A minimal yet powerful Retrieval-Augmented Generation (RAG) pipeline using **LangChain**, **Gemini 1.5 Pro**, and **Chroma** to fetch and answer queries based on live web data. Ideal for developers and researchers seeking a practical example of combining LLMs with vector-based retrieval.
