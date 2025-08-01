@@ -1,0 +1,6 @@
+langchain
+langchain-google-genai
+langchain-community
+langchain-chroma
+bs4
+tqdm
