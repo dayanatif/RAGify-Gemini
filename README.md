@@ -40,7 +40,7 @@ ragify-gemini/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/dayanatif/ragify-gemini.git
+   git clone https://github.com/dayanatif/RAGify-Gemini.git
    cd ragify-gemini
    ```
 
@@ -76,7 +76,7 @@ ragify-gemini/
 ## 📥 Sample Output
 
 ```python
->>> rag_chain.invoke({'input':"What is MRKL"})
+rag_chain.invoke({'input':"What is MRKL"})
 ```
 
 Output:
